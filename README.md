@@ -4,9 +4,9 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vianneychin&show_icons=true&theme=gotham&count_private=true" alt="vianneychin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vianneychin&show_icons=true&theme=graywhite&count_private=true" alt="vianneychin" />
 </p>
 <br>
 <p align="center">
-  <img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=vianneychin&theme=gotham&count_private=true" alt="vianneychin" />
+  <img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=vianneychin&theme=graywhite&count_private=true" alt="vianneychin" />
 </p>
