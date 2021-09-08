@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vianney.</h1>
-<h3 align="center">A passionate JavaScript developer who loves working on exciting new projects.</h3>
+<h3 align="center">I am a passionate JavaScript developer who loves working on exciting new projects.</h3>
 
 <br>
 
